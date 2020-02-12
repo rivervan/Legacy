@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: edu.udacity.java.nano.WebSocketChatTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.349 s <<< FAILURE! - in edu.udacity.java.nano.WebSocketChatTest
+onOpen(edu.udacity.java.nano.WebSocketChatTest)  Time elapsed: 0.027 s  <<< FAILURE!
+java.lang.AssertionError: Not a HandlerMethod: ResourceHttpRequestHandler [locations=[class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/]], resolvers=[org.springframework.web.servlet.resource.CachingResourceResolver@24386839, org.springframework.web.servlet.resource.WebJarsResourceResolver@7b32b129, org.springframework.web.servlet.resource.PathResourceResolver@439e3cb4]]
+	at edu.udacity.java.nano.WebSocketChatTest.onOpen(WebSocketChatTest.java:35)
+

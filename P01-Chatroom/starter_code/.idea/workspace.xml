@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d62f65f8-26be-4e86-9266-00f1de741231" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XEbhnuXF48NiEc9gwNfZSLyBKQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.udacity.java.nano" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ivan\JAVA\JDND-master\projects\P01-Chatroom\starter_code\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.udacity.java.nano" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.chatroom-starter [test]">
+    <configuration name="chatroom-starter-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/chatroom-starter-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chatroom-starter [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="chatroom-starter [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="chatroom-starter [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.chatroom-starter [test]" />
+        <item itemvalue="Maven.chatroom-starter [compile]" />
+        <item itemvalue="JAR Application.chatroom-starter-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="Maven.chatroom-starter [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d62f65f8-26be-4e86-9266-00f1de741231" name="Default Changelist" comment="" />
+      <created>1580614322718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580614322718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="287" y="279" width="1014" height="908" key="#Intentions" timestamp="1580776278764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="287" y="279" width="1014" height="908" key="#Intentions/0.0.2560.1400@0.0.2560.1400" timestamp="1580776278764" />
+    <state x="283" y="276" key="#Project_Structure" timestamp="1580755786128">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="283" y="276" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1580755786128" />
+    <state x="308" y="402" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581190194801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="308" y="402" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581190194801" />
+    <state x="577" y="461" width="1519" height="932" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580700150246">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="577" y="461" width="1519" height="932" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580700150246" />
+    <state x="1089" y="537" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580694306812">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1089" y="537" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580694306812" />
+    <state x="475" y="352" key="#com.intellij.ide.util.MemberChooser" timestamp="1580691873880">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="475" y="352" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1580691873880" />
+    <state x="554" y="533" width="471" height="345" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580775155578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="554" y="533" width="471" height="345" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1580775155578" />
+    <state x="462" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580873809065">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="462" y="392" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580873809065" />
+    <state x="752" y="347" key="FileChooserDialogImpl" timestamp="1581187586265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="752" y="347" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581187586265" />
+    <state width="1224" height="246" key="GridCell.Tab.0.bottom" timestamp="1581476668403">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1224" height="246" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581476668403" />
+    <state width="1224" height="246" key="GridCell.Tab.0.center" timestamp="1581476668402">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1224" height="246" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581476668402" />
+    <state width="1224" height="246" key="GridCell.Tab.0.left" timestamp="1581476668402">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1224" height="246" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581476668402" />
+    <state width="1224" height="246" key="GridCell.Tab.0.right" timestamp="1581476668402">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1224" height="246" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581476668402" />
+    <state width="1471" height="477" key="GridCell.Tab.1.bottom" timestamp="1580790676918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1471" height="477" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1580790676918" />
+    <state width="1471" height="477" key="GridCell.Tab.1.center" timestamp="1580790676918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1471" height="477" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1580790676918" />
+    <state width="1471" height="477" key="GridCell.Tab.1.left" timestamp="1580790676918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1471" height="477" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1580790676918" />
+    <state width="1471" height="477" key="GridCell.Tab.1.right" timestamp="1580790676918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1471" height="477" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1580790676918" />
+    <state x="329" y="418" key="Maven.ArtifactSearchDialog" timestamp="1581189055184">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="329" y="418" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581189055184" />
+    <state x="143" y="171" key="SettingsEditor" timestamp="1580756805101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="143" y="171" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1580756805101" />
+    <state x="422" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1581390057314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="422" y="483" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581390057314" />
+    <state x="367" y="331" key="run.anything.popup" timestamp="1580775978744">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="367" y="331" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1580775978744" />
+  </component>
+</project>
